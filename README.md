@@ -8,9 +8,7 @@ A simple web project demonstrating the implementation of a modal using HTML, CSS
 - [Features](#features)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Setup](#setup)
 - [Credits](#credits)
-- [License](#license)
 
 ## Introduction
 
